@@ -1,0 +1,6 @@
+# Dissertation Project - C# and Shader code
+
+My Disseration project was an exploration into the creation and induction of audio-visual immersion within video-games.
+This project explored how techniques designed within a game engine can impact the emotional response from players when used in different means. Four primary emotions (from the definitions of Robert Plutchik and Paul Ekman) were tested in this project, and a testing methodology derived from previous work into the field of immersion and subtext by Dr Charlie Hargood was used to interview and analyse the participants on their connotations of the environments. 
+
+The short experimental game was created in Unity Engine and programmed from scratch, with a day/night cycle and weather system being designed specifically for this project. Using this system along with numerous open-source models and sound files, an environment was created that was completely dynamic and programmable to create different atmospheric audio-visual play experiences. This was then fine-tuned based on an extensive research project into the subject, to attempt to induce the 4 emotions upon players through use of sound, colour, lighting, interaction, weather and level structure. 
